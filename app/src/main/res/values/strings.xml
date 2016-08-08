@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterMediaSearchApplication</string>
+    <string name="tweet_link">TWEET LINK</string>
+    <string name="search_text">Search photos and videos</string>
+</resources>
